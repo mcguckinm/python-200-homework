@@ -42,7 +42,6 @@ print("Reshaped shape: ", x_2d.shape)
 #this is a one dimension array which is what is expected when I run it. There is only 1 row and 5 columns. Which is exactly what it is saying.
 # when we reshaped it we see it show from rows to columns. still need stucture of it. 
 
-
 #Q3
 
 print("\nscikit-learn Q3")
